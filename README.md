@@ -97,10 +97,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para:
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-## ✨ Autor
-
-Desenvolvido como projeto final da disciplina de Estatística para Análise de Dados de E-commerce.
-
----
-
-**Nota**: Certifique-se de ter o arquivo `ecommerce_estatistica.csv` no mesmo diretório do script ou faça o upload quando executar no Google Colab.
